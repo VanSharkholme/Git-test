@@ -1,1 +1,7 @@
-Hello Sheise
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello Sheise\n");
+    return 0;
+}
