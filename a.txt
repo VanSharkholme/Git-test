@@ -4,7 +4,7 @@ int main()
 {
     int i;
     for(i=0;i<10;i++){
-            printf("Hello Sheise\n");
+            printf("Hello Scheise\n");
     }
     if(i==10){
         printf("%d\n",i);
